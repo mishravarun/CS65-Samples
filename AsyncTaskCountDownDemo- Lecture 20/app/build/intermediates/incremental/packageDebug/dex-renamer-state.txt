@@ -1,0 +1,7 @@
+#Sun Jan 01 17:43:14 EST 2017
+base.0=/Users/varun/Development/TA/CS65/CS65-Samples/AsyncTaskCountDownDemo- Lecture 20/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_764dd13887ca7e95500a7c0b59c032d3b03da169
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/varun/Development/TA/CS65/CS65-Samples/AsyncTaskCountDownDemo- Lecture 20/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a665275e19b2e2150f91df2d09e8de59176362a3/classes.dex
+base.1=/Users/varun/Development/TA/CS65/CS65-Samples/AsyncTaskCountDownDemo- Lecture 20/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a665275e19b2e2150f91df2d09e8de59176362a3
+file.0=/Users/varun/Development/TA/CS65/CS65-Samples/AsyncTaskCountDownDemo- Lecture 20/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_764dd13887ca7e95500a7c0b59c032d3b03da169/classes.dex

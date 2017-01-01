@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/varun/Development/TA/CS65/CS65-Samples/AsyncTaskCountDownDemo- Lecture 20/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "/Users/varun/Development/TA/CS65/CS65-Samples/AsyncTaskCountDownDemo- Lecture 20/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 63,
+                        "endOffset": 76
+                    }
+                }
+            }
+        ]
+    }
+]

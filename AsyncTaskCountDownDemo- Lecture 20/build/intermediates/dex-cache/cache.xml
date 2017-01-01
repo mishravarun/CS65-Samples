@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/varun/Development/TA/CS65/CS65-Samples/AsyncTaskCountDownDemo- Lecture 20/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48489e3a5d29daa1ad3b3d89a6bdc6cddf05cf69">
+        <dex dex="/Users/varun/Development/TA/CS65/CS65-Samples/AsyncTaskCountDownDemo- Lecture 20/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a665275e19b2e2150f91df2d09e8de59176362a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/varun/Development/TA/CS65/CS65-Samples/AsyncTaskCountDownDemo- Lecture 20/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d3b2605499dc099e112f5c7eae05198f9363150">
+        <dex dex="/Users/varun/Development/TA/CS65/CS65-Samples/AsyncTaskCountDownDemo- Lecture 20/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_764dd13887ca7e95500a7c0b59c032d3b03da169/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="25"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="236835716947669"
+    token="7407452151539586217"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="71" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="23" />
+    <task
+        name="verifier"
+        duration="6" />
+
+    <artifact
+        location="/Users/varun/Development/TA/CS65/CS65-Samples/AsyncTaskCountDownDemo- Lecture 20/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="236835716947669"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/varun/Development/TA/CS65/CS65-Samples/AsyncTaskCountDownDemo- Lecture 20/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
