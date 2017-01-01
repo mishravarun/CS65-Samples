@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              tools:context=".MainActivityFragment">
+    <TextView
+        android:id="@+id/selection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#f2b512"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#514e45"
+        android:textSize="20dp"/>
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="#b49128"
+        android:clickable="true"
+        android:fastScrollEnabled="false"
+        android:padding="@dimen/abc_text_size_body_2_material"/>
+
+</LinearLayout>
+
+
