@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CoventryDemo</string>
+    <string name="title_activity_main">Map</string>
+
+</resources>

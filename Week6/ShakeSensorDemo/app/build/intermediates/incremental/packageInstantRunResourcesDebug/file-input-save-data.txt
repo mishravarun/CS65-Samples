@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Mon Jan 16 18:32:30 EST 2017
+1.base=/Users/varun/Development/TA/CS65/CS65-Samples/Week6/ShakeSensorDemo/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/varun/Development/TA/CS65/CS65-Samples/Week6/ShakeSensorDemo/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+2.base=/Users/varun/Development/TA/CS65/CS65-Samples/Week6/ShakeSensorDemo/app/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/Users/varun/Development/TA/CS65/CS65-Samples/Week6/ShakeSensorDemo/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_icon.png
+count=4
+1.set=ANDROID_RESOURCE
+3.base=/Users/varun/Development/TA/CS65/CS65-Samples/Week6/ShakeSensorDemo/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/Users/varun/Development/TA/CS65/CS65-Samples/Week6/ShakeSensorDemo/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/varun/Development/TA/CS65/CS65-Samples/Week6/ShakeSensorDemo/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+0.file=/Users/varun/Development/TA/CS65/CS65-Samples/Week6/ShakeSensorDemo/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml

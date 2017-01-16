@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/varun/Development/TA/CS65/CS65-Samples/Week6/BindDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7cfbc6010621f2ac06ba686f0a43f85b1a12fc6a">
+        <dex dex="/Users/varun/Development/TA/CS65/CS65-Samples/Week6/BindDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bbb21cdddbff05822465ea1ebe02c8d3db78aa29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/varun/Development/TA/CS65/CS65-Samples/Week6/BindDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a36a812499780db4cc1b8e99f20fced9a148b0d">
+        <dex dex="/Users/varun/Development/TA/CS65/CS65-Samples/Week6/BindDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a2a9f930afc7855bc59376fcb8fe3164f405652c/classes.dex" />
+    </item>
+
+</items>

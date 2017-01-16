@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/Users/varun/Development/TA/CS65/CS65-Samples/Week6/WeatherDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/Users/varun/Development/TA/CS65/CS65-Samples/Week6/WeatherDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 44,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 59,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "/Users/varun/Development/TA/CS65/CS65-Samples/Week6/WeatherDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 59,
+                        "endOffset": 110
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/Users/varun/Development/TA/CS65/CS65-Samples/Week6/BindDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/varun/Development/TA/CS65/CS65-Samples/Week6/BindDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 45,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 59,
+                    "endOffset": 156
+                },
+                "from": {
+                    "file": "/Users/varun/Development/TA/CS65/CS65-Samples/Week6/BindDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 59,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 161,
+                    "endColumn": 60,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/varun/Development/TA/CS65/CS65-Samples/Week6/BindDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 60,
+                        "endOffset": 158
+                    }
+                }
+            }
+        ]
+    }
+]

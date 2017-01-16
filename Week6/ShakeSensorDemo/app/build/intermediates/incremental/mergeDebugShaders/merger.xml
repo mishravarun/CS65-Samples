@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/varun/Development/TA/CS65/CS65-Samples/Week6/ShakeSensorDemo/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/varun/Development/TA/CS65/CS65-Samples/Week6/ShakeSensorDemo/app/src/debug/shaders"/></dataSet></merger>

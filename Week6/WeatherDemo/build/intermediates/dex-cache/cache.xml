@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/varun/Development/TA/CS65/CS65-Samples/Week6/WeatherDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c93cb4b26bb3842509339a772b28c33000258fd">
+        <dex dex="/Users/varun/Development/TA/CS65/CS65-Samples/Week6/WeatherDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_47ce6e3d51fdaba572276f255315f5557d98e10a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/varun/Development/TA/CS65/CS65-Samples/Week6/WeatherDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45174414399ab72d863a45f16d854d2fb40f38f2">
+        <dex dex="/Users/varun/Development/TA/CS65/CS65-Samples/Week6/WeatherDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a2016105b6818c0996c3c0e1c26f70ba6366e174/classes.dex" />
+    </item>
+
+</items>

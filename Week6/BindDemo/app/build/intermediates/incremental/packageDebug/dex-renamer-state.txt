@@ -1,0 +1,7 @@
+#Mon Jan 16 18:21:13 EST 2017
+base.0=/Users/varun/Development/TA/CS65/CS65-Samples/Week6/BindDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bbb21cdddbff05822465ea1ebe02c8d3db78aa29
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/varun/Development/TA/CS65/CS65-Samples/Week6/BindDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a2a9f930afc7855bc59376fcb8fe3164f405652c/classes.dex
+base.1=/Users/varun/Development/TA/CS65/CS65-Samples/Week6/BindDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a2a9f930afc7855bc59376fcb8fe3164f405652c
+file.0=/Users/varun/Development/TA/CS65/CS65-Samples/Week6/BindDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bbb21cdddbff05822465ea1ebe02c8d3db78aa29/classes.dex

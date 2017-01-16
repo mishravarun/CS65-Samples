@@ -1,0 +1,7 @@
+#Mon Jan 16 18:32:32 EST 2017
+base.0=/Users/varun/Development/TA/CS65/CS65-Samples/Week6/ShakeSensorDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f415e01e4d7f623833257373d985ebc3a01338dc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/varun/Development/TA/CS65/CS65-Samples/Week6/ShakeSensorDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f2b15388c94c00ef39453122e7dfcd3d16a82e1/classes.dex
+base.1=/Users/varun/Development/TA/CS65/CS65-Samples/Week6/ShakeSensorDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f2b15388c94c00ef39453122e7dfcd3d16a82e1
+file.0=/Users/varun/Development/TA/CS65/CS65-Samples/Week6/ShakeSensorDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f415e01e4d7f623833257373d985ebc3a01338dc/classes.dex

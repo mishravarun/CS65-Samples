@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/Users/varun/Development/TA/CS65/CS65-Samples/Week6/NotifyDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/Users/varun/Development/TA/CS65/CS65-Samples/Week6/NotifyDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 52,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 47,
+                    "endOffset": 151
+                },
+                "from": {
+                    "file": "/Users/varun/Development/TA/CS65/CS65-Samples/Week6/NotifyDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 47,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 156,
+                    "endColumn": 52,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "/Users/varun/Development/TA/CS65/CS65-Samples/Week6/NotifyDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 52,
+                        "endOffset": 205
+                    }
+                }
+            }
+        ]
+    }
+]
