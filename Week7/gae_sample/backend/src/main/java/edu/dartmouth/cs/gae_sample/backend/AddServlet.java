@@ -22,8 +22,8 @@ public class AddServlet extends HttpServlet {
 
 		if (name == null || name.equals("")) {
 			req.setAttribute("_retStr", "invalid input");
-			getServletContext().getRequestDispatcher("/query_result.jsp")
-					.forward(req, resp);
+			getServletContext().getRequestDispatcher("/query.do").forward(req, resp);
+
 			return;
 		}
 
@@ -38,8 +38,9 @@ public class AddServlet extends HttpServlet {
 		} else {
 			req.setAttribute("_retStr", name + " exists");
 		}
+//		resp.sendRedirect("/query.do");
 
-		getServletContext().getRequestDispatcher("/query_result.jsp").forward(
+		getServletContext().getRequestDispatcher("/query.do").forward(
 				req, resp);
 	}
 
