@@ -7,6 +7,7 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.View;
 import android.widget.EditText;
+import android.widget.TextView;
 
 
 public class MainActivity extends Activity {
@@ -30,16 +31,26 @@ public class MainActivity extends Activity {
 
 	/** Called when the user clicks the Send button */
 
-	public void sendMessage(View view) {
+	public void sendMessage(final View view) {
 
 		// Send the input string to the DisplayMessageActivity using an intent
 
 		Log.d(TAG, "sendMessage");
-		
-		Intent intent = new Intent(this, DisplayMessageActivity.class);
-		EditText editText = (EditText) findViewById(R.id.edit_message);
-		String message = editText.getText().toString();
-		intent.putExtra(EXTRA_MESSAGE, message);
-		startActivity(intent);
+
+		class WorkerThread extends Thread {
+			public void run(){
+				final TextView tv = (TextView) view.findViewById(R.id.textView);
+
+				tv.setText("hi");
+			}
+		}
+
+		new WorkerThread().start();
+
+//		Intent intent = new Intent(this, DisplayMessageActivity.class);
+//		EditText editText = (EditText) findViewById(R.id.edit_message);
+//		String message = editText.getText().toString();
+//		intent.putExtra(EXTRA_MESSAGE, message);
+//		startActivity(intent);
 	}
 }
