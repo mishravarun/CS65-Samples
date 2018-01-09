@@ -225,17 +225,18 @@ public class MapsActivity extends FragmentActivity {
 
             Location l = locationManager.getLastKnownLocation(provider);
 
-            LatLng latlng = fromLocationToLatLng(l);
+            if (l!=null) {
+                LatLng latlng = fromLocationToLatLng(l);
 
 
-            whereAmI = mMap.addMarker(new MarkerOptions().position(latlng).icon(BitmapDescriptorFactory.defaultMarker(
-                    BitmapDescriptorFactory.HUE_GREEN)));
-            // Zoom in
-            mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(latlng,
-                    17));
+                whereAmI = mMap.addMarker(new MarkerOptions().position(latlng).icon(BitmapDescriptorFactory.defaultMarker(
+                        BitmapDescriptorFactory.HUE_GREEN)));
+                // Zoom in
+                mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(latlng,
+                        17));
 
-            updateWithNewLocation(l);
-
+                updateWithNewLocation(l);
+            }
             locationManager.requestLocationUpdates(provider, 2000, 10,
                     locationListener);
         }
